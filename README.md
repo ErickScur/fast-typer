@@ -1,2 +1,2 @@
 # Fast Typer⚡
-A simple typing game amde with HTML, CSS and JS
+A simple typing game made with HTML, CSS and JS
